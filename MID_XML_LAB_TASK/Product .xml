@@ -1,0 +1,16 @@
+<product>
+	<company id="501">
+		<id> 501 </id>
+		<name> Boeing </name>
+		<unitprice> 75000 </UnitPrice>
+		<stock> 500 </stock>
+	</company>
+
+	<company id="601">
+		<id> 601 </id>
+		<name> Airbus </name>
+		<unitprice> 55000 </UnitPrice>
+		<stock> 350 </stock>
+	</company>
+
+</product>
